@@ -31,8 +31,34 @@ text-decoration: none;
       
 
 }
+.details{
+    display: flex;
 
+}
+.image{
+    display: flex;
+    
+    
+    
+}
+.image linkedin{
+    width: 300px;
 
+    padding: 50px;
+    margin: 20px;
+}
+.image github{
+    width: 300px;
+
+    padding: 50px;
+    margin: 20px;
+}
+.image gmail{
+    width: 300px;
+
+    padding: 50px;
+    margin: 20px;
+}
 
 
 
