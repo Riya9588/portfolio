@@ -1,0 +1,39 @@
+
+        body  {
+            background-image: url("certificate.html/portfolio-background.jpg");
+            background-color: #cccccc;
+            color: darkturquoise;
+          }
+          
+
+h1{
+    color: gold;
+    font-style: oblique;
+}
+h2{
+    color: tomato;
+    font-style: italic;
+}
+h3{
+    color: lightcoral;
+    font-style: unset;
+}
+a
+{
+color: lemonchiffon;
+text-decoration: none;
+}
+
+ a:hover{
+    color: mediumblue;
+    text-decoration: none;
+    background-color: cadetblue;
+      
+
+}
+
+
+
+
+
+
